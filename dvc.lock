@@ -5,10 +5,10 @@ stages:
     deps:
     - path: data/data.csv
       hash: md5
-      md5: dcdc080946c2a458bd885846caa7ac71
-      size: 2029
+      md5: 2cf8df351d7ad3cb33001b4cf82959f5
+      size: 1806
     outs:
     - path: data/preprocessed_data.csv
       hash: md5
-      md5: d9221e6a3f51f6ee1ccfed43468d614f
-      size: 7620
+      md5: f8e1f0edb57f94020ff0ce74e45b793e
+      size: 6785
