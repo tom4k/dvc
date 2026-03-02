@@ -4,4 +4,4 @@ stages:
     deps:
     - data/data.csv
     outs:
-    - data/data.csv
+    - data/preprocessed_data.csv
